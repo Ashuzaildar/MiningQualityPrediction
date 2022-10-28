@@ -1,6 +1,6 @@
 # MiningQualityPrediction
 
-In this 1.5-hour long project-based course, you will be able to:
+In this  project-based course, i will be able to:
 - Understand the theory and intuition behind Simple and Multiple Linear Regression.
 - Import Key python libraries, datasets and perform data visualization
 - Perform exploratory data analysis and standardize the training and testing data.
